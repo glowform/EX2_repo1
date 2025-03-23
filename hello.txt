@@ -7,3 +7,5 @@ some changes added in github
 some changes added in VSCode
 
 some changes added in github again
+
+some changed did on github to create a merge conflict 
